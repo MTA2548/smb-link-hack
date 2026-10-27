@@ -1,0 +1,9 @@
+# Only the source code is shared: everything is ignored except the files allowed below.
+# (No ROMs, patched games, test output or personal notes.)
+/*
+!/.gitignore
+!/README.md
+!/tools/
+/tools/*
+!/tools/*.py
+!/tools/nesemu.c
